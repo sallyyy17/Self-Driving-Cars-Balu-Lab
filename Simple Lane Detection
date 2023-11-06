@@ -1,0 +1,3 @@
+This project is on the Simple Lane Line Detection using Traditional OpenCV. Included is a sample code and an implementation of the code on a 10sec video.
+
+The accuracy of the results are low and so further work will be done on this to make it more accurate. Some causes of the inaccuracues include light and weather conditions and nature of the roads.
